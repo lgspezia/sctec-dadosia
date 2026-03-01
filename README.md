@@ -35,8 +35,6 @@ Empreguei seis diferentes algoritmos de classificação e selecionamos o modelo 
 *   Permutation importance
 Gerei até 05 modelos com cada Algoritmo, com diferentes estratégias.
 
-
-
 Além disso, o limite máximo para exportação de planilha é de 30.000 linhas.
 Por isso a importação será feita em partes para somente depois concatenar todo o DataFrame
 
@@ -45,20 +43,15 @@ Dessa forma, foram importadas inicialmente as seguintes planilhas:
 - Setor Responsável : setor_economico
 - Tipo de Despesa : dicionario-de-dados-balanco-geral-renuncia-fiscal-v1.1
 
-
-
 # A estrutura geral do projeto;
-Jupyter
+Jupyter Notebook
 
 As instruções necessárias para execução;
 Rodar notebook
 
 Um link para o vídeo pitch, que deverá estar referenciado diretamente no README.md.
 
-
-
 # Aqui Contém
-
 Carregamento dos dados;
 Tratamento de valores inconsistentes ou ausentes;
 Organização das informações;
@@ -67,8 +60,6 @@ Apresentação de resultados por meio de tabelas, gráficos, métricas ou interp
 
 
 # Detalhe
-
-
 Uma startup é uma empresa ou projeto idealizado por um empreendedor para buscar, desenvolver e validar um modelo de negócios escalável. Enquanto o empreendedorismo se refere a todos os novos negócios, incluindo o trabalho autônomo e empresas que nunca pretendem se registrar formalmente.
 
 Fontes consultadas
