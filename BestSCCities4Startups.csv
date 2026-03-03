@@ -1,12 +1,12 @@
 position,change in position from 2020,city,country,total score,quatity score,quality score,business score,sign of change in position
 
-1,0,Balneário Camboriú, Santa Catarina, Brazil, 23.61, 49.835,2.8,=
+1,0,Balneário Camboriú, Santa Catarina, Brazil, 23.61,2.8, 49.835,=
 
-2,1, Itapema, Santa Catarina, Brazil, 21.12, 58.61,2.43,+
+2,1, Itapema, Santa Catarina, Brazil,  21.12, 58.61,2.43,=
 
 3,2, Florianópolis, Santa Catarina, Brazil, 20.32, 58.441,3.8,=
 
-4,3, Biguaçu, Santa Catarina, Brazil, 17.39, 56.913,3.7,+
+4,3, Biguaçu, Santa Catarina, Brazil,  17.39, 56.913,3.7,+
 
 5,2, Porto Belo, Santa Catarina, Brazil, 17.23, 42.162,3.47,+
 
